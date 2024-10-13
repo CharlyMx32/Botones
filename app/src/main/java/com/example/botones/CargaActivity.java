@@ -15,7 +15,7 @@ public class CargaActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.espera_screen);
+        setContentView(R.layout.espera);
 
         CargaTextView = findViewById(R.id.CargaTextView);
 
